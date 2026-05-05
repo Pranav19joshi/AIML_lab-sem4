@@ -2,7 +2,6 @@
 **School of Computer Science, UPES, Dehradun**
 B.TECH. — IV Semester | Jan – May 2026
 
-**Submitted To:** Dr. Sahinur Rahman Laskar, Assistant Professor, SoCS, UPES
 **Submitted By:** Pranav Joshi | SAP ID: 590012855 | Batch: 19
 
 ---
@@ -710,5 +709,9 @@ The models are evaluated using the R² score (Coefficient of Determination) to m
 - **Final Output:** These files allow the prediction system to be reloaded for real-time house price estimations without needing to retrain the model.
 
 ---
-
-*Applied Machine Learning Lab — UPES Dehradun | Jan–May 2026*
+  <h2 id="mentor">Mentor</h2>
+  <p><strong>Dr. Sahinur Rahman Laskar</strong><br>
+  Assistant Professor<br>
+  School of Computer Science, UPES, Dehradun, India<br>
+  Email: sahinurlaskar.nits@gmail.com / sahinur.laskar@ddn.upes.ac.in<br>
+  </p>
