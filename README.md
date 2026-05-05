@@ -2,7 +2,6 @@
 **School of Computer Science, UPES, Dehradun**
 B.TECH. — IV Semester | Jan – May 2026
 
-**Submitted To:** Dr. Sahinur Rahman Laskar, Assistant Professor, SoCS, UPES
 **Submitted By:** Pranav Joshi | SAP ID: 590012855 | Batch: 19
 
 ---
@@ -25,3 +24,9 @@ B.TECH. — IV Semester | Jan – May 2026
 | 12 | Regularization (Ridge and Lasso) | 31-02-26 |
 | 13 | Mini Project | 30-03-26 |
 
+  <h2 id="mentor">Mentor</h2>
+  <p><strong>Dr. Sahinur Rahman Laskar</strong><br>
+  Assistant Professor<br>
+  School of Computer Science, UPES, Dehradun, India<br>
+  Email: sahinurlaskar.nits@gmail.com / sahinur.laskar@ddn.upes.ac.in<br>
+  </p>
