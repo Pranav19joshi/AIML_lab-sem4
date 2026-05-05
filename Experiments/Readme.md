@@ -20,8 +20,8 @@ B.TECH. — IV Semester | Jan – May 2026
 | 8 | Student Performance Level Analysis | 17-02-26 |
 | 9 | Physiological Signal Classification | 24-02-26 |
 | 10 | Iris Classification | 24-02-26 |
-| 11 | Prediction using Bagging Classifier | 31-02-26 |
-| 12 | Regularization (Ridge and Lasso) | 31-02-26 |
+| 11 | Prediction using Bagging Classifier | 28-02-26 |
+| 12 | Regularization (Ridge and Lasso) | 28-02-26 |
 
 ---
 
