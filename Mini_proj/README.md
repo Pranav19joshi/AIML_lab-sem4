@@ -2,7 +2,6 @@
 **School of Computer Science, UPES, Dehradun**
 B.Tech IV Semester | Jan – May 2026
 
-**Submitted To:** Dr. Sahinur Rahman Laskar, Assistant Professor, SoCS, UPES
 **Submitted By:** Pranav Joshi | SAP ID: 590012855 | Batch: 19
 
 ---
@@ -404,23 +403,10 @@ Each model is evaluated on the held-out test set using four complementary method
 
 ---
 
-## Dependencies
 
-```python
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler, LabelEncoder
-from sklearn.impute import SimpleImputer
-from sklearn.linear_model import LinearRegression, Ridge, Lasso, LogisticRegression
-from sklearn.tree import DecisionTreeRegressor, DecisionTreeClassifier
-from sklearn.ensemble import RandomForestRegressor, BaggingClassifier
-from sklearn.metrics import (
-    mean_squared_error, r2_score,
-    classification_report, confusion_matrix,
-    f1_score, precision_score, recall_score, roc_curve, auc
-)
-from xgboost import XGBClassifier
-```
+  <h2 id="mentor">Mentor</h2>
+  <p><strong>Dr. Sahinur Rahman Laskar</strong><br>
+  Assistant Professor<br>
+  School of Computer Science, UPES, Dehradun, India<br>
+  Email: sahinurlaskar.nits@gmail.com / sahinur.laskar@ddn.upes.ac.in<br>
+  </p>
